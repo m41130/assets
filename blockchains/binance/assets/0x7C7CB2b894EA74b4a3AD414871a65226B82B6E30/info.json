@@ -1,0 +1,10 @@
+name": "Rio Token",
+    "website": "https://tokenrio.com/",
+    "description": "RIT burns its supply weekly. Rio Token is part of Project Titan.",
+    "explorer": "https://bscscan.com/token/0x7C7CB2b894EA74b4a3AD414871a65226B82B6E30",
+    "type": "BEP20",
+    "symbol": "RIT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x7C7CB2b894EA74b4a3AD414871a65226B82B6E30"
+}
